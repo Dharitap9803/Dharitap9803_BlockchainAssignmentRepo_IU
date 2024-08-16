@@ -1,4 +1,4 @@
-# Dharitap9803_Assignment2Blockchain.
+# Dharitap9803_BlockchainAssignmentRepo_IU
 ---
 
 # AI Assignments Repository
