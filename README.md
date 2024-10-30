@@ -11,6 +11,8 @@ This repository houses all submissions for AI assignments. Each assignment is or
 - Assignment 3 : Submitted
 - Assignment 4 : Submitted
 - Assignment 5 : Submitted
+- ## Final Assignment(Project)
+    Lottery System
 
 ## Folder Structure
 - Assignment No/ : Contains files and documentation related to the respective assignment.
